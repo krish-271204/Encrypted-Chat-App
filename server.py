@@ -1,9 +1,4 @@
 
----
-
-### 📄 `server.py`
-
-```python
 import socket
 import threading
 from cryptography.fernet import Fernet
