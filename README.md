@@ -53,6 +53,3 @@ Multiple clients can connect to the same server.
    - All subsequent messages are encrypted with AES using the session key
 3. Messages in the chat are encrypted end-to-end
 
-## License
-
-MIT 
